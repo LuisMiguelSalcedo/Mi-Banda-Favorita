@@ -1,0 +1,41 @@
+html{
+    background-color: #F6F8D5;
+
+}
+
+h1{
+    color: #205781;
+}
+
+
+div{
+    border: 1px dashed;
+    text-align: justify;
+    font-family: "Bebas Neue", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    background-color: #98D2C0;
+    
+    
+}
+
+h1{
+    font-family: "Lato", sans-serif;
+    font-weight: 800;
+    font-style: normal;
+}
+
+p{
+    font-family: "Bebas Neue", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+}
+
+#parrafo-uno{
+    color: #4F959D;
+    text-decoration: underline;
+}
+
+a:hover{
+    color: blue;
+}
